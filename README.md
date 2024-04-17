@@ -75,7 +75,7 @@ In this project, the logistic regression model is trained on the preprocessed an
 ## Evaluation
 
 The performance of both the logistic regression and neural network models is evaluated using various metrics, such as accuracy, precision, recall, and F1-score. 
-```
+```python
 Accuracy:0.8580666666666666
 Precision Score:0.8533523168521874
 Recall score:0.8687574120437476
